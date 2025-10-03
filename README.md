@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ante__vukic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ante__vukic/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/comunidade-efi-bank-775322853884821504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/comunidade-efi-bank-775322853884821504" height="30" width="40" /></a>
+<a href="https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ante__vukic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ante__vukic/" height="30" width="40" /></a>
+<a href="https://discord.com/invite/comunidade-efi-bank-775322853884821504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/comunidade-efi-bank-775322853884821504" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
