@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antisa12&label=Profile%20views&color=0e75b6&style=flat" alt="antisa12" /> </p>
 
-- 🔭 I’m currently working on **ZeltoPay - Web Gateway for secure transactions**
-
-- 👯 I’m looking to collaborate on **Payment gateways**
-
-- ⚡ Fun fact **CEO of Vukić Studio - side gig**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://hr.linkedin.com/in/ante-v-6a2b3618b?trk=people-guest_people_search-card" height="30" width="40" /></a>
